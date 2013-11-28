@@ -7,14 +7,27 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "Cons
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		ConsoleAppclication1_64bit|Win32 = ConsoleAppclication1_64bit|Win32
+		ConsoleAppclication1_64bit|x64 = ConsoleAppclication1_64bit|x64
 		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
 		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B65A9862-91FC-44B6-8B6C-D66E7040A84B}.ConsoleAppclication1_64bit|Win32.ActiveCfg = ConsoleAppclication1_64bit|Win32
+		{B65A9862-91FC-44B6-8B6C-D66E7040A84B}.ConsoleAppclication1_64bit|Win32.Build.0 = ConsoleAppclication1_64bit|Win32
+		{B65A9862-91FC-44B6-8B6C-D66E7040A84B}.ConsoleAppclication1_64bit|x64.ActiveCfg = ConsoleAppclication1_64bit|x64
+		{B65A9862-91FC-44B6-8B6C-D66E7040A84B}.ConsoleAppclication1_64bit|x64.Build.0 = ConsoleAppclication1_64bit|x64
+		{B65A9862-91FC-44B6-8B6C-D66E7040A84B}.ConsoleAppclication1_64bit|x64.Deploy.0 = ConsoleAppclication1_64bit|x64
 		{B65A9862-91FC-44B6-8B6C-D66E7040A84B}.Debug|Win32.ActiveCfg = Debug|Win32
 		{B65A9862-91FC-44B6-8B6C-D66E7040A84B}.Debug|Win32.Build.0 = Debug|Win32
+		{B65A9862-91FC-44B6-8B6C-D66E7040A84B}.Debug|x64.ActiveCfg = Debug|x64
+		{B65A9862-91FC-44B6-8B6C-D66E7040A84B}.Debug|x64.Build.0 = Debug|x64
 		{B65A9862-91FC-44B6-8B6C-D66E7040A84B}.Release|Win32.ActiveCfg = Release|Win32
 		{B65A9862-91FC-44B6-8B6C-D66E7040A84B}.Release|Win32.Build.0 = Release|Win32
+		{B65A9862-91FC-44B6-8B6C-D66E7040A84B}.Release|x64.ActiveCfg = Release|x64
+		{B65A9862-91FC-44B6-8B6C-D66E7040A84B}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
